@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T17:18:13.230Z" agent="5.0 (Windows)" etag="Jt1aaP3GHo68K5BQFMyT" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T17:23:55.126Z" agent="5.0 (Windows)" etag="08CGAL7jiT3WzsUCPyLk" version="20.8.20" type="github">
   <diagram name="Page-1" id="n1RDnge7ajgv0KuCjHOu">
     <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,6 +100,9 @@
         </mxCell>
         <mxCell id="sibwvt83FaB7zlyU1G_8-30" value="G0/0/0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sibwvt83FaB7zlyU1G_8-31" value="&lt;div&gt;VLAN 1 = DATA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;VLAN 90 = VOICE&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
