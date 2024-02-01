@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T16:58:40.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="eB75sUiDZNU1tgKi8UaV" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T16:59:04.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="IoEvlIX4iiJE-2GL78fx" version="23.1.0" type="github">
   <diagram name="Page-1" id="sIQ3Cuc5agyqr33T1YzC">
     <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,9 +156,6 @@
               <mxPoint x="385" y="150" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4a-Ywb2DZcK-UxJ6rqJS-54" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/Enterprise.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4a-Ywb2DZcK-UxJ6rqJS-56" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.datacenter;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="93.9622641509434" height="60" as="geometry" />
