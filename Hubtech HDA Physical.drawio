@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T20:43:47.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="N2IPeDurs7tfVJbDRC_P" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T20:27:44.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="smk6ME-FaffaCizIapR6" version="23.1.0" type="github">
   <diagram name="Page-1" id="ieDN78RhmptPFViyQEq6">
     <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="ikyv0bNC-03RKVHaxbpz-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ikyv0bNC-03RKVHaxbpz-8" target="ikyv0bNC-03RKVHaxbpz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikyv0bNC-03RKVHaxbpz-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;LAN1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="223" width="50" height="30" as="geometry" />
+        <mxCell id="ikyv0bNC-03RKVHaxbpz-13" value="192.168.9.1/24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="223" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ikyv0bNC-03RKVHaxbpz-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;WAN1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="50" height="30" as="geometry" />
+        <mxCell id="ikyv0bNC-03RKVHaxbpz-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;102.221.177.xx/31&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikyv0bNC-03RKVHaxbpz-18" value="desktop" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1" vertex="1" parent="1">
           <mxGeometry x="250" y="370.45" width="30" height="27.3" as="geometry" />
@@ -50,6 +50,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ikyv0bNC-03RKVHaxbpz-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;102.221.177.xx/31&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="76.7" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikyv0bNC-03RKVHaxbpz-31" value="Network: 192.168.9.0&lt;br&gt;Subnet mask: 255.255.255.0&lt;br&gt;Gateway: 192.168.9.1&lt;br&gt;DNS: 192.168.9.3&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 192.168.0.3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="253" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
